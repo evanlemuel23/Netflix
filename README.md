@@ -1,12 +1,8 @@
-Here’s a sample GitHub README for your Netflix clone project using only HTML and CSS:
 
----
 
 # Netflix Clone 🎬
 
 A fully responsive **Netflix Clone** created using only **HTML** and **CSS**. This project is a frontend-only website that mimics the look and feel of Netflix, including a clean and intuitive user interface. It adapts to different screen sizes, ensuring a seamless experience on both desktop and mobile devices.
-
-![Netflix Clone Preview](preview-image-url)
 
 ## 🚀 Features
 
