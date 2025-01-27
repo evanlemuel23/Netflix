@@ -21,7 +21,7 @@ A fully responsive **Netflix Clone** created using only **HTML** and **CSS**. Th
 
 ## 🌐 Live Demo
 
-Check out the live demo [here](https://your-demo-link.com).
+Check out the live demo:https://evanlemuel23.github.io/Netflix/
 
 
 
